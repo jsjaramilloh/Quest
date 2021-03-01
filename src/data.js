@@ -1,33 +1,33 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'what kind of products can I find in your webpage?',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      'Technology, Gadgets, and more.',
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'Do you have a physical store?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+      'No, for the confort of our clients, the purchases are online!.',
   },
   {
     id: 3,
-    title: 'What is BankID?',
+    title: 'How lond does it take the delivery?',
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      'Fast delivery! Delivery only in 1 to 2 days.',
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
+    title: 'What is the payment method?',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+      'Cash on delivery. Pay when you receive the product in your door.',
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
+    title: 'Is there any guarantee?',
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+      '100% satisfaction guarantee. If you are not satisfied with the product, simply contact us and we will refund your money.',
   },
 ]
 export default questions
